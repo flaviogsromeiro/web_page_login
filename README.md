@@ -1,34 +1,32 @@
-<h1 align="center"> LOGIN DE ACESSO</h1>
+<img src="img\banner_page_login.png" alt="" width="100%">
 
-Projeto de uma página de Login para fixar os conhecimentos de HTML, CSS e os príncipios de JavaScript. 
+## 🚀 Apresentação
 
+<br>
+ 📍  Projeto de uma página de Login para fixar os conhecimentos de HTML, CSS e os príncipios de JavaScript. 
+<br>
+<br>
+
+## 📹 Demonstração
+<br>
 <div align="center">
-<img src="img/demonstracao.PNG">
+<img src="img/demonstracao.PNG" width="80%">
 </div>
+<br>
 
 ## 🛠️ Stacks e conhecimentos utilizados
-
-
-<details>
-    <summary><b>HTML</b></summary>
-    <br>
+<br>
+<b>📌 HTML</b>
 
 - Uso de tags semânticas, como *header, nav, main, footer*, entre outras.
 - Atenção à acessibilidade.
 - SEO e boas práticas.
-</details>
 
-<details>
-    <summary><b>CSS</b></summary>
-    <br>
+<b>📌 CSS</b>
 
 - CSS Grid e Flexbox para posicionamento de itens e criação do layout.
 - Responsividade com media queries.
-</details>
 
-<details>
-    <summary><b>Javascript</b></summary>
-    <br>
+<b>📌 Javascript</b>
 
-- Criação de função para ativar quando inserir os acessos.
-</details>
+- Criação de função para ativar quando houver interação com o usuário.
